@@ -449,6 +449,9 @@ A saw jump + keg jump. This is a great tool for CTF which allows you to achieve 
 
 ![](http://i.giphy.com/26xBNmaO9vcdNo2QM.gif)
 
+Stone and wooden doors perform the same so there is no need to spend more resources on stronger blocks. The cheapest way is by using wooden doors because they're cheaper than trap blocks or stone doors and do not take damage from teammate bombs. You don't need to copy this design, but more doors horizontally is going to help you not damage your base.
+![](https://imgur.com/a/u5dqWqK)
+
 ## Catching enemy bombs/kegs
 
 You can catch enemy bombs and throw them back! The best way to do this is to catch with C and throw with Space. This is because the Space key cannot catch, only throw – so it prevents you catching the bomb, throwing it, and catching it again – which might happen if you just spam C.
